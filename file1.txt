@@ -1,2 +1,2 @@
 some code user1 wrote
-anoter user1 change
+changes by user1 and user2
